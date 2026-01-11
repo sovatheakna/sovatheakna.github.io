@@ -18,3 +18,20 @@ h1 {
 p {
   font-size: 1.2rem;
 }
+.subtitle {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+.card {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  text-align: left;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
