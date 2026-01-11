@@ -131,3 +131,25 @@ body {
     width: 100%;
   }
 }
+.block-links {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 6px 0 10px;
+}
+
+.objectives {
+  margin-top: 10px;
+}
+
+.objectives-title {
+  margin: 0 0 8px;
+  font-size: 1rem;
+}
+
+.objectives-list {
+  margin: 0;
+  padding-left: 18px;
+  line-height: 1.7;
+}
+
