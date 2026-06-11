@@ -152,4 +152,11 @@ body {
   padding-left: 18px;
   line-height: 1.7;
 }
-
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 24px;
+  border: 2px solid #d0d7de;
+}
