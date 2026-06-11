@@ -152,17 +152,7 @@ body {
   padding-left: 18px;
   line-height: 1.7;
 }
-.sidebar-photo {
-  width: 180px;
-  height: 180px;
-  max-width: 180px;
-  max-height: 180px;
-  border-radius: 50%;
-  object-fit: cover;
-  display: block;
-  margin: 18px auto;
-  border: 6px solid #f4f6f8;
-}
+
 .profile-picture {
   width: 180px;
   height: 180px;
