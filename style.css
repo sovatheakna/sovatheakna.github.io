@@ -163,4 +163,16 @@ body {
   margin: 18px auto;
   border: 6px solid #f4f6f8;
 }
+.sidebar img,
+.sidebar-photo {
+  width: 180px !important;
+  height: 180px !important;
+  max-width: 180px !important;
+  max-height: 180px !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
+  display: block !important;
+  margin: 18px auto !important;
+  border: 6px solid #f4f6f8 !important;
+}
 
