@@ -11,8 +11,3 @@ This folder contains my notes, courses, reports, and exercises about condensed m
 - Band Theory
 - Magnetism
 - Superconductivity
-
-## Reports
-
-- Specific Heat of Solids
-- Laser-Produced Plasma
