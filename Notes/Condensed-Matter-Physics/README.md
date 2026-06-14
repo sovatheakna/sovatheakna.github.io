@@ -11,3 +11,4 @@ This folder contains my notes, courses, reports, and exercises about condensed m
 - [Energy Bands and Band Theory](Energy-Bands-and-Band-Theory)
 - [Magnetism and Magnetic Materials](Magnetism-and-Magnetic-Materials)
 - [Superconductivity](Superconductivity)
+- [Specific Heat of Solids](Specific-Heat-of-Solids)
