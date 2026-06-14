@@ -10,6 +10,6 @@ This folder contains my notes, courses, and exercises about quantum mechanics.
 - [One-dimensional quantum systems](one-dimensional-systems.md)
 - [Dirac formalism of quantum mechanics](dirac-formalism.md)
 - [Two-state systems](two-state-systems.md)
-- [Spin-1-2](spin-1-2.md)
+- [Spin-1/2](spin-1-2.md)
 - [Quantum entanglement](quantum-entanglement.md)
 - [Nuclear magnetic resonance / NMR](nmr.md)
