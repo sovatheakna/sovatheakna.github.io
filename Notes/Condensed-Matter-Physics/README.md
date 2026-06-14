@@ -4,10 +4,10 @@ This folder contains my notes, courses, reports, and exercises about condensed m
 
 ## Courses
 
-- [[Introduction to Condensed Matter Physics]]
-- [[Crystal Structure and Crystallography]]
-- [[Lattice Vibrations and Phonons]]
-- [[Electrons in Solids and Transport]]
-- [[Energy Bands and Band Theory]]
-- [[Magnetism and Magnetic Materials]]
-- [[Superconductivity]]
+- [Introduction to Condensed Matter Physics](Introduction-to-Condensed-Matter-Physics)
+- [Crystal Structure and Crystallography]( Crystal-Structure-and-Crystallography)
+- [Lattice Vibrations and Phonons](Lattice-Vibrations-and-Phonos)
+- [Electrons in Solids and Transport](Electrons-in-solids-and-Transport)
+- [Energy Bands and Band Theory](Energy-Bands-and-Band-Theory)
+- [Magnetism and Magnetic Materials](Magnetism-and-Magnetic-Materials)
+- [Superconductivity](Superconductivity)
